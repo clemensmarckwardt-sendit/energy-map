@@ -4,10 +4,12 @@ import type { FeatureCollection } from 'geojson';
 
 type AdminType = 'bundeslaender' | 'kreise' | 'gemeinden';
 
+const BASE = import.meta.env.BASE_URL;
+
 const ADMIN_URLS: Record<AdminType, string> = {
-  bundeslaender: '/data/admin/bundeslaender.geojson',
-  kreise: '/data/admin/kreise.geojson',
-  gemeinden: '/data/admin/gemeinden.geojson'
+  bundeslaender: `${BASE}data/admin/bundeslaender.geojson`,
+  kreise: `${BASE}data/admin/kreise.geojson`,
+  gemeinden: `${BASE}data/admin/gemeinden.geojson`
 };
 
 // Minimum zoom levels for loading each layer

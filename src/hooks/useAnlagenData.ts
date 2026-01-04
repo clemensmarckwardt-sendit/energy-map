@@ -4,9 +4,11 @@ import type { FeatureCollection } from 'geojson';
 
 type AnlagenType = 'solar' | 'bess';
 
+const BASE = import.meta.env.BASE_URL;
+
 const ANLAGEN_URLS: Record<AnlagenType, string> = {
-  solar: '/data/anlagen/solar.geojson',
-  bess: '/data/anlagen/bess.geojson'
+  solar: `${BASE}data/anlagen/solar.geojson`,
+  bess: `${BASE}data/anlagen/bess.geojson`
 };
 
 export function useAnlagenData(type: AnlagenType) {

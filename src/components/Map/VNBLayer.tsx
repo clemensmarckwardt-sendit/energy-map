@@ -2,6 +2,8 @@ import { useEffect, useState, useMemo, useCallback, useRef } from 'react';
 import { GeoJSON, useMap } from 'react-leaflet';
 import { useStore } from '../../store';
 import { useVNBIndex } from '../../hooks/useVNBData';
+
+const BASE = import.meta.env.BASE_URL;
 import { getVoltageColor, formatArea } from '../../utils/geoUtils';
 import type { Feature, FeatureCollection, Geometry, GeoJsonProperties } from 'geojson';
 import type { PathOptions, Layer, LatLngBounds } from 'leaflet';
@@ -84,7 +86,7 @@ export function VNBLayer() {
 
           // Load from server
           try {
-            const response = await fetch(`/data/vnb/full/${vnb.fileName}`);
+            const response = await fetch(`${BASE}data/vnb/full/${vnb.fileName}`);
             if (response.ok) {
               const data = await response.json();
               loadedVNBsRef.current.set(vnb.id, data);

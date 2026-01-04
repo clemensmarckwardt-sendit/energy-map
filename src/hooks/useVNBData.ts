@@ -2,6 +2,8 @@ import { useEffect, useMemo } from 'react';
 import { useStore } from '../store';
 import type { VNBIndex, VNBIndexEntry } from '../types';
 
+const BASE = import.meta.env.BASE_URL;
+
 export function useVNBIndex() {
   const { vnbIndex, setVnbIndex, setLoading } = useStore();
 
@@ -11,7 +13,7 @@ export function useVNBIndex() {
     async function loadIndex() {
       setLoading('vnbIndex', true);
       try {
-        const response = await fetch('/data/vnb/index.json');
+        const response = await fetch(`${BASE}data/vnb/index.json`);
         const data: VNBIndex = await response.json();
         setVnbIndex(data);
       } catch (error) {
@@ -122,7 +124,7 @@ export function useLoadVNBGeometry() {
     if (loadedVNBs.has(id)) return loadedVNBs.get(id);
 
     try {
-      const response = await fetch(`/data/vnb/full/${fileName}`);
+      const response = await fetch(`${BASE}data/vnb/full/${fileName}`);
       const data = await response.json();
       addLoadedVNB(id, data);
       return data;
