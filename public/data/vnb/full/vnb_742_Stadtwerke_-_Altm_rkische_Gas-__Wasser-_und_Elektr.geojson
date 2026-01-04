@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "2Ff9i37f7Rmmfnepw",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.8109,
+              52.5879
+            ],
+            [
+              11.8127,
+              52.5832
+            ],
+            [
+              11.8181,
+              52.5771
+            ],
+            [
+              11.8392,
+              52.5718
+            ],
+            [
+              11.8696,
+              52.574
+            ],
+            [
+              11.8922,
+              52.5767
+            ],
+            [
+              11.8878,
+              52.5897
+            ],
+            [
+              11.8899,
+              52.5928
+            ],
+            [
+              11.9119,
+              52.6024
+            ],
+            [
+              11.9065,
+              52.6149
+            ],
+            [
+              11.8842,
+              52.6302
+            ],
+            [
+              11.8643,
+              52.6405
+            ],
+            [
+              11.8386,
+              52.6507
+            ],
+            [
+              11.8145,
+              52.6402
+            ],
+            [
+              11.8232,
+              52.6188
+            ],
+            [
+              11.822,
+              52.6069
+            ],
+            [
+              11.8109,
+              52.5879
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": null,
+        "properties.vnbId": "742",
+        "properties.voltageTypes": "[Niederspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "2Ff9i37f7Rmmfnepw",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 39903742.64968399,
+        "vnbId": "742",
+        "vnbName": "Stadtwerke - Altmärkische Gas-, Wasser- und Elektrizitätswerke GmbH Stendal",
+        "voltageTypes": "Mittelspannung, Niederspannung"
+      },
+      "bbox": [
+        11.8109,
+        52.5718,
+        11.9119,
+        52.6507
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:46:48.148Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    11.8109,
+    52.5718,
+    11.9119,
+    52.6507
+  ]
+}

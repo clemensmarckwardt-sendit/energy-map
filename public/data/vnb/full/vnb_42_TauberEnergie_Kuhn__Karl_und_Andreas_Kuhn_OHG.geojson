@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "y52CoFCNRTxM3tJDA",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.7996,
+              49.4745
+            ],
+            [
+              9.82,
+              49.4629
+            ],
+            [
+              9.8466,
+              49.4624
+            ],
+            [
+              9.8533,
+              49.4723
+            ],
+            [
+              9.8564,
+              49.4787
+            ],
+            [
+              9.8305,
+              49.4849
+            ],
+            [
+              9.8238,
+              49.4834
+            ],
+            [
+              9.819,
+              49.4805
+            ],
+            [
+              9.7996,
+              49.4745
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": null,
+        "properties.vnbId": "42",
+        "properties.voltageTypes": "[Niederspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "y52CoFCNRTxM3tJDA",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 6658983.962902128,
+        "vnbId": "42",
+        "vnbName": "TauberEnergie Kuhn, Karl und Andreas Kuhn OHG",
+        "voltageTypes": "Niederspannung, Mittelspannung"
+      },
+      "bbox": [
+        9.7996,
+        49.4624,
+        9.8564,
+        49.4849
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:50:15.695Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    9.7996,
+    49.4624,
+    9.8564,
+    49.4849
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "EQYjvz5YtLnvTzSYY",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.2749,
+              51.6971
+            ],
+            [
+              12.2238,
+              51.6934
+            ],
+            [
+              12.2282,
+              51.6738
+            ],
+            [
+              12.2174,
+              51.6582
+            ],
+            [
+              12.1883,
+              51.6572
+            ],
+            [
+              12.1795,
+              51.6393
+            ],
+            [
+              12.1815,
+              51.6376
+            ],
+            [
+              12.213,
+              51.6373
+            ],
+            [
+              12.2469,
+              51.6441
+            ],
+            [
+              12.2599,
+              51.6439
+            ],
+            [
+              12.2699,
+              51.6403
+            ],
+            [
+              12.2772,
+              51.6362
+            ],
+            [
+              12.2824,
+              51.6296
+            ],
+            [
+              12.2858,
+              51.6225
+            ],
+            [
+              12.2927,
+              51.6164
+            ],
+            [
+              12.2864,
+              51.6108
+            ],
+            [
+              12.2881,
+              51.6078
+            ],
+            [
+              12.2979,
+              51.5918
+            ],
+            [
+              12.3135,
+              51.5947
+            ],
+            [
+              12.3199,
+              51.6033
+            ],
+            [
+              12.3449,
+              51.6157
+            ],
+            [
+              12.359,
+              51.6313
+            ],
+            [
+              12.2749,
+              51.6971
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": null,
+        "properties.vnbId": "1009",
+        "properties.voltageTypes": "[Niederspannung, Mittelspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "EQYjvz5YtLnvTzSYY",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 61711487.36997856,
+        "vnbId": "1009",
+        "vnbName": "Netzgesellschaft Bitterfeld-Wolfen mbH",
+        "voltageTypes": "Mittelspannung, Niederspannung"
+      },
+      "bbox": [
+        12.1795,
+        51.5918,
+        12.359,
+        51.6971
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:44:20.384Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    12.1795,
+    51.5918,
+    12.359,
+    51.6971
+  ]
+}

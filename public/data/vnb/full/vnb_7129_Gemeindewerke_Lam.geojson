@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "C7PCSoyKsEkmfeSYR",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.0492,
+              49.2096
+            ],
+            [
+              13.0404,
+              49.2029
+            ],
+            [
+              13.0386,
+              49.2019
+            ],
+            [
+              13.0384,
+              49.2012
+            ],
+            [
+              13.041,
+              49.199
+            ],
+            [
+              13.0412,
+              49.1977
+            ],
+            [
+              13.0406,
+              49.1943
+            ],
+            [
+              13.0409,
+              49.1911
+            ],
+            [
+              13.0428,
+              49.1898
+            ],
+            [
+              13.0446,
+              49.186
+            ],
+            [
+              13.0459,
+              49.1834
+            ],
+            [
+              13.0511,
+              49.1817
+            ],
+            [
+              13.0565,
+              49.1823
+            ],
+            [
+              13.0552,
+              49.1844
+            ],
+            [
+              13.0555,
+              49.1899
+            ],
+            [
+              13.0566,
+              49.1903
+            ],
+            [
+              13.0573,
+              49.1906
+            ],
+            [
+              13.058,
+              49.1913
+            ],
+            [
+              13.0584,
+              49.1916
+            ],
+            [
+              13.0577,
+              49.1918
+            ],
+            [
+              13.0571,
+              49.1921
+            ],
+            [
+              13.0568,
+              49.1924
+            ],
+            [
+              13.0573,
+              49.1933
+            ],
+            [
+              13.0575,
+              49.1936
+            ],
+            [
+              13.062,
+              49.1945
+            ],
+            [
+              13.0723,
+              49.1966
+            ],
+            [
+              13.0816,
+              49.1969
+            ],
+            [
+              13.0869,
+              49.201
+            ],
+            [
+              13.0828,
+              49.2057
+            ],
+            [
+              13.0731,
+              49.2075
+            ],
+            [
+              13.066,
+              49.2087
+            ],
+            [
+              13.0616,
+              49.2098
+            ],
+            [
+              13.0492,
+              49.2096
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": null,
+        "properties.vnbId": "7129",
+        "properties.voltageTypes": "[Niederspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "C7PCSoyKsEkmfeSYR",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 5765310.284201228,
+        "vnbId": "7129",
+        "vnbName": "Gemeindewerke Lam",
+        "voltageTypes": "Mittelspannung, Niederspannung"
+      },
+      "bbox": [
+        13.0384,
+        49.1817,
+        13.0869,
+        49.2098
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:40:25.144Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    13.0384,
+    49.1817,
+    13.0869,
+    49.2098
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "kDxhJGE6fwmsy3qmb",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.1062,
+              50.2216
+            ],
+            [
+              10.1082,
+              50.2179
+            ],
+            [
+              10.1106,
+              50.2166
+            ],
+            [
+              10.1159,
+              50.2137
+            ],
+            [
+              10.1255,
+              50.2052
+            ],
+            [
+              10.1303,
+              50.2053
+            ],
+            [
+              10.14,
+              50.2172
+            ],
+            [
+              10.1384,
+              50.2297
+            ],
+            [
+              10.1227,
+              50.231
+            ],
+            [
+              10.1219,
+              50.232
+            ],
+            [
+              10.1212,
+              50.2333
+            ],
+            [
+              10.1204,
+              50.2333
+            ],
+            [
+              10.1208,
+              50.2324
+            ],
+            [
+              10.1216,
+              50.231
+            ],
+            [
+              10.1239,
+              50.2292
+            ],
+            [
+              10.1086,
+              50.2296
+            ],
+            [
+              10.1062,
+              50.2216
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": null,
+        "properties.vnbId": "7127",
+        "properties.voltageTypes": "[Niederspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "kDxhJGE6fwmsy3qmb",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 4809659.467895141,
+        "vnbId": "7127",
+        "vnbName": "Gemeindewerke Nüdlingen",
+        "voltageTypes": "Niederspannung, Mittelspannung"
+      },
+      "bbox": [
+        10.1062,
+        50.2052,
+        10.14,
+        50.2333
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:40:27.109Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    10.1062,
+    50.2052,
+    10.14,
+    50.2333
+  ]
+}

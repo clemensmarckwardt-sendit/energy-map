@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "Bfe3MwxWfHmmy5FAf",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.7842,
+              50.7382
+            ],
+            [
+              11.7841,
+              50.7439
+            ],
+            [
+              11.7579,
+              50.7569
+            ],
+            [
+              11.7429,
+              50.7577
+            ],
+            [
+              11.73,
+              50.7529
+            ],
+            [
+              11.7203,
+              50.7509
+            ],
+            [
+              11.7257,
+              50.7419
+            ],
+            [
+              11.7264,
+              50.7346
+            ],
+            [
+              11.7302,
+              50.7274
+            ],
+            [
+              11.7458,
+              50.7267
+            ],
+            [
+              11.7593,
+              50.7172
+            ],
+            [
+              11.7686,
+              50.7224
+            ],
+            [
+              11.7702,
+              50.7372
+            ],
+            [
+              11.7842,
+              50.7382
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": null,
+        "properties.vnbId": "782",
+        "properties.voltageTypes": "[Mittelspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "Bfe3MwxWfHmmy5FAf",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 12007405.873323143,
+        "vnbId": "782",
+        "vnbName": "Stadtwerke Neustadt an der Orla GmbH",
+        "voltageTypes": "Mittelspannung, Niederspannung"
+      },
+      "bbox": [
+        11.7203,
+        50.7172,
+        11.7842,
+        50.7577
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:47:56.432Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    11.7203,
+    50.7172,
+    11.7842,
+    50.7577
+  ]
+}

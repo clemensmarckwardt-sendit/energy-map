@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "Am3jhxj5HfN7DJjez",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4626,
+              48.1732
+            ],
+            [
+              10.4615,
+              48.1725
+            ],
+            [
+              10.4643,
+              48.1709
+            ],
+            [
+              10.475,
+              48.1694
+            ],
+            [
+              10.4835,
+              48.1681
+            ],
+            [
+              10.4876,
+              48.17
+            ],
+            [
+              10.488,
+              48.1724
+            ],
+            [
+              10.4871,
+              48.1802
+            ],
+            [
+              10.4801,
+              48.1806
+            ],
+            [
+              10.4763,
+              48.1789
+            ],
+            [
+              10.4749,
+              48.1776
+            ],
+            [
+              10.4688,
+              48.1774
+            ],
+            [
+              10.467,
+              48.1752
+            ],
+            [
+              10.4626,
+              48.1732
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": null,
+        "properties.vnbId": "341",
+        "properties.voltageTypes": "[Niederspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "Am3jhxj5HfN7DJjez",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 1756170.2160000552,
+        "vnbId": "341",
+        "vnbName": "Fürstl. Fugger-Glött'sches Elektrizitätswerk",
+        "voltageTypes": "Niederspannung"
+      },
+      "bbox": [
+        10.4615,
+        48.1681,
+        10.488,
+        48.1806
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:40:14.169Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    10.4615,
+    48.1681,
+    10.488,
+    48.1806
+  ]
+}

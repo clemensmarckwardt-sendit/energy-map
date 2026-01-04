@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "4fhSrJRDJJ7QzNFXp",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.4757,
+              49.5941
+            ],
+            [
+              9.5018,
+              49.6047
+            ],
+            [
+              9.4933,
+              49.6203
+            ],
+            [
+              9.5026,
+              49.6353
+            ],
+            [
+              9.4732,
+              49.6414
+            ],
+            [
+              9.4381,
+              49.6248
+            ],
+            [
+              9.4559,
+              49.5976
+            ],
+            [
+              9.4757,
+              49.5941
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": null,
+        "properties.vnbId": "271",
+        "properties.voltageTypes": "[Mittelspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "4fhSrJRDJJ7QzNFXp",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 16357042.551206466,
+        "vnbId": "271",
+        "vnbName": "Gebrüder Eirich GmbH & Co KG",
+        "voltageTypes": "Mittelspannung, Niederspannung"
+      },
+      "bbox": [
+        9.4381,
+        49.5941,
+        9.5026,
+        49.6414
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:40:16.148Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    9.4381,
+    49.5941,
+    9.5026,
+    49.6414
+  ]
+}

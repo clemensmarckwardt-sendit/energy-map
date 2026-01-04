@@ -1,0 +1,195 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "REFajEJfiNaphsp7W",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.266,
+              48.0546
+            ],
+            [
+              9.2378,
+              48.0584
+            ],
+            [
+              9.2274,
+              48.0653
+            ],
+            [
+              9.2428,
+              48.0719
+            ],
+            [
+              9.2417,
+              48.0791
+            ],
+            [
+              9.2618,
+              48.0984
+            ],
+            [
+              9.2331,
+              48.1064
+            ],
+            [
+              9.2424,
+              48.1162
+            ],
+            [
+              9.2635,
+              48.1208
+            ],
+            [
+              9.252,
+              48.1267
+            ],
+            [
+              9.2621,
+              48.1288
+            ],
+            [
+              9.261,
+              48.1362
+            ],
+            [
+              9.2309,
+              48.1401
+            ],
+            [
+              9.2216,
+              48.1522
+            ],
+            [
+              9.2134,
+              48.1464
+            ],
+            [
+              9.1888,
+              48.1449
+            ],
+            [
+              9.1754,
+              48.1515
+            ],
+            [
+              9.1725,
+              48.1426
+            ],
+            [
+              9.1602,
+              48.1419
+            ],
+            [
+              9.1645,
+              48.1303
+            ],
+            [
+              9.1239,
+              48.1212
+            ],
+            [
+              9.1485,
+              48.0837
+            ],
+            [
+              9.1734,
+              48.0841
+            ],
+            [
+              9.1807,
+              48.079
+            ],
+            [
+              9.1922,
+              48.0625
+            ],
+            [
+              9.1834,
+              48.0506
+            ],
+            [
+              9.1777,
+              48.0428
+            ],
+            [
+              9.1879,
+              48.0326
+            ],
+            [
+              9.2302,
+              48.0437
+            ],
+            [
+              9.2362,
+              48.0422
+            ],
+            [
+              9.2442,
+              48.0323
+            ],
+            [
+              9.2504,
+              48.038
+            ],
+            [
+              9.2662,
+              48.0395
+            ],
+            [
+              9.275,
+              48.0447
+            ],
+            [
+              9.266,
+              48.0546
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": null,
+        "properties.vnbId": "791",
+        "properties.voltageTypes": "[Niederspannung, Mittelspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "REFajEJfiNaphsp7W",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 79536577.99578999,
+        "vnbId": "791",
+        "vnbName": "Stadtwerke Sigmaringen GmbH",
+        "voltageTypes": "Mittelspannung, Niederspannung"
+      },
+      "bbox": [
+        9.1239,
+        48.0323,
+        9.275,
+        48.1522
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:48:21.315Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    9.1239,
+    48.0323,
+    9.275,
+    48.1522
+  ]
+}

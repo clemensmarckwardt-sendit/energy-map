@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "HjjsdJsJ86ia3XxSz",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.3879,
+              49.3213
+            ],
+            [
+              7.4001,
+              49.3693
+            ],
+            [
+              7.2936,
+              49.3885
+            ],
+            [
+              7.2896,
+              49.41
+            ],
+            [
+              6.9177,
+              49.4129
+            ],
+            [
+              6.802,
+              49.4144
+            ],
+            [
+              6.7007,
+              49.3721
+            ],
+            [
+              6.661,
+              49.2599
+            ],
+            [
+              6.6958,
+              49.2157
+            ],
+            [
+              6.7296,
+              49.1661
+            ],
+            [
+              6.8418,
+              49.1511
+            ],
+            [
+              6.8604,
+              49.1795
+            ],
+            [
+              6.8544,
+              49.1999
+            ],
+            [
+              6.8386,
+              49.2111
+            ],
+            [
+              6.8389,
+              49.2139
+            ],
+            [
+              6.8601,
+              49.223
+            ],
+            [
+              6.8891,
+              49.2102
+            ],
+            [
+              7.0321,
+              49.1894
+            ],
+            [
+              7.2823,
+              49.234
+            ],
+            [
+              7.3231,
+              49.2483
+            ],
+            [
+              7.3722,
+              49.281
+            ],
+            [
+              7.3879,
+              49.3213
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": 1,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": null,
+        "properties.vnbId": "962",
+        "properties.voltageTypes": "[Mittelspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "HjjsdJsJ86ia3XxSz",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 1128946396.837514,
+        "vnbId": "962",
+        "vnbName": "Creos Deutschland GmbH",
+        "voltageTypes": "Niederspannung, Mittelspannung, Hochspannung"
+      },
+      "bbox": [
+        6.661,
+        49.1511,
+        7.4001,
+        49.4144
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:38:13.211Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    6.661,
+    49.1511,
+    7.4001,
+    49.4144
+  ]
+}

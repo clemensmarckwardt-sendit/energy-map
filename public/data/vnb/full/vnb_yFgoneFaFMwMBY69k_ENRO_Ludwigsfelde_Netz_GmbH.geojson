@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "mJ7KJDEgiDoKYbfHR",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.2821,
+              52.3091
+            ],
+            [
+              13.2835,
+              52.3175
+            ],
+            [
+              13.2764,
+              52.3168
+            ],
+            [
+              13.2721,
+              52.3172
+            ],
+            [
+              13.2771,
+              52.3336
+            ],
+            [
+              13.2632,
+              52.3305
+            ],
+            [
+              13.2552,
+              52.3265
+            ],
+            [
+              13.2543,
+              52.3225
+            ],
+            [
+              13.2501,
+              52.3225
+            ],
+            [
+              13.2481,
+              52.3217
+            ],
+            [
+              13.2478,
+              52.3198
+            ],
+            [
+              13.2518,
+              52.3165
+            ],
+            [
+              13.2603,
+              52.3161
+            ],
+            [
+              13.2602,
+              52.3156
+            ],
+            [
+              13.2639,
+              52.3154
+            ],
+            [
+              13.2627,
+              52.311
+            ],
+            [
+              13.2707,
+              52.31
+            ],
+            [
+              13.2821,
+              52.3091
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": null,
+        "properties.vnbId": "yFgoneFaFMwMBY69k",
+        "properties.voltageTypes": "[Niederspannung, Mittelspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "mJ7KJDEgiDoKYbfHR",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 3373153.1416563396,
+        "vnbId": "yFgoneFaFMwMBY69k",
+        "vnbName": "ENRO Ludwigsfelde Netz GmbH",
+        "voltageTypes": "Mittelspannung, Niederspannung"
+      },
+      "bbox": [
+        13.2478,
+        52.3091,
+        13.2835,
+        52.3336
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:39:40.452Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    13.2478,
+    52.3091,
+    13.2835,
+    52.3336
+  ]
+}

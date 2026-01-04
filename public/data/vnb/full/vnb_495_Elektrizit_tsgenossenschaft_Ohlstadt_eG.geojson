@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "CBY3zwYHpebYExLnQ",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.2162,
+              47.6428
+            ],
+            [
+              11.2172,
+              47.6423
+            ],
+            [
+              11.2157,
+              47.6405
+            ],
+            [
+              11.2147,
+              47.6386
+            ],
+            [
+              11.2136,
+              47.6346
+            ],
+            [
+              11.2117,
+              47.6315
+            ],
+            [
+              11.208,
+              47.6285
+            ],
+            [
+              11.2077,
+              47.6275
+            ],
+            [
+              11.2146,
+              47.6226
+            ],
+            [
+              11.2271,
+              47.6224
+            ],
+            [
+              11.239,
+              47.6261
+            ],
+            [
+              11.2423,
+              47.6286
+            ],
+            [
+              11.2445,
+              47.6314
+            ],
+            [
+              11.2508,
+              47.6319
+            ],
+            [
+              11.2521,
+              47.6327
+            ],
+            [
+              11.2483,
+              47.6371
+            ],
+            [
+              11.2514,
+              47.6412
+            ],
+            [
+              11.2497,
+              47.6423
+            ],
+            [
+              11.2433,
+              47.6393
+            ],
+            [
+              11.2367,
+              47.6417
+            ],
+            [
+              11.2322,
+              47.643
+            ],
+            [
+              11.2271,
+              47.644
+            ],
+            [
+              11.2225,
+              47.6461
+            ],
+            [
+              11.2181,
+              47.6464
+            ],
+            [
+              11.2174,
+              47.6459
+            ],
+            [
+              11.2162,
+              47.6428
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": null,
+        "properties.vnbId": "495",
+        "properties.voltageTypes": "[Niederspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "CBY3zwYHpebYExLnQ",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 5513429.486861173,
+        "vnbId": "495",
+        "vnbName": "Elektrizitätsgenossenschaft Ohlstadt eG",
+        "voltageTypes": "Niederspannung, Mittelspannung"
+      },
+      "bbox": [
+        11.2077,
+        47.6224,
+        11.2521,
+        47.6464
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:39:50.884Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    11.2077,
+    47.6224,
+    11.2521,
+    47.6464
+  ]
+}

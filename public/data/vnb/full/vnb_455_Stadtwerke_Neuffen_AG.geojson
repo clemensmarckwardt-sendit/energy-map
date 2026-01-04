@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "eBxaGFobPCmSmLjFF",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.4088,
+              48.5794
+            ],
+            [
+              9.3862,
+              48.5771
+            ],
+            [
+              9.3653,
+              48.5662
+            ],
+            [
+              9.3546,
+              48.5534
+            ],
+            [
+              9.376,
+              48.5386
+            ],
+            [
+              9.3971,
+              48.5539
+            ],
+            [
+              9.4208,
+              48.5703
+            ],
+            [
+              9.4088,
+              48.5794
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": null,
+        "properties.vnbId": "455",
+        "properties.voltageTypes": "[Niederspannung, Mittelspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "eBxaGFobPCmSmLjFF",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 11241637.48794472,
+        "vnbId": "455",
+        "vnbName": "Stadtwerke Neuffen AG",
+        "voltageTypes": "Mittelspannung, Niederspannung"
+      },
+      "bbox": [
+        9.3546,
+        48.5386,
+        9.4208,
+        48.5794
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:47:54.173Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    9.3546,
+    48.5386,
+    9.4208,
+    48.5794
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "XBrogXCyxvKvbK2bm",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                8.4674,
+                50.9185
+              ],
+              [
+                8.4511,
+                50.9162
+              ],
+              [
+                8.4497,
+                50.9293
+              ],
+              [
+                8.4926,
+                50.9407
+              ],
+              [
+                8.5059,
+                50.9242
+              ],
+              [
+                8.5282,
+                50.9318
+              ],
+              [
+                8.5573,
+                50.9202
+              ],
+              [
+                8.5533,
+                50.8989
+              ],
+              [
+                8.5351,
+                50.8892
+              ],
+              [
+                8.4889,
+                50.9187
+              ],
+              [
+                8.4676,
+                50.9184
+              ],
+              [
+                8.4674,
+                50.9185
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": "Niederspannung",
+        "properties.vnbId": "84",
+        "properties.voltageTypes": "[Niederspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "XBrogXCyxvKvbK2bm",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 19434117.971849542,
+        "vnbId": "84",
+        "vnbName": "SWB Stadtwerke Biedenkopf GmbH",
+        "voltageTypes": "Mittelspannung, Niederspannung"
+      },
+      "bbox": [
+        8.4497,
+        50.8892,
+        8.5573,
+        50.9407
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:44:34.142Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    8.4497,
+    50.8892,
+    8.5573,
+    50.9407
+  ]
+}

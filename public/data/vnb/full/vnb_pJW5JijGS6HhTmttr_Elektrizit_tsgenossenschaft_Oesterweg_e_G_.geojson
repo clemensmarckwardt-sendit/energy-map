@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "wSpsxHPJt9NY6fxm8",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.1905,
+              52.0457
+            ],
+            [
+              8.1865,
+              52.0412
+            ],
+            [
+              8.1811,
+              52.0335
+            ],
+            [
+              8.171,
+              52.0347
+            ],
+            [
+              8.1705,
+              52.0327
+            ],
+            [
+              8.1656,
+              52.0297
+            ],
+            [
+              8.1667,
+              52.0255
+            ],
+            [
+              8.1879,
+              52.0275
+            ],
+            [
+              8.1908,
+              52.0256
+            ],
+            [
+              8.1916,
+              52.024
+            ],
+            [
+              8.1972,
+              52.0122
+            ],
+            [
+              8.2122,
+              52.0144
+            ],
+            [
+              8.2171,
+              52.0214
+            ],
+            [
+              8.2186,
+              52.0216
+            ],
+            [
+              8.2192,
+              52.0237
+            ],
+            [
+              8.2255,
+              52.0251
+            ],
+            [
+              8.2247,
+              52.0283
+            ],
+            [
+              8.2202,
+              52.035
+            ],
+            [
+              8.2141,
+              52.0396
+            ],
+            [
+              8.2168,
+              52.043
+            ],
+            [
+              8.2185,
+              52.0495
+            ],
+            [
+              8.2125,
+              52.0486
+            ],
+            [
+              8.2095,
+              52.0458
+            ],
+            [
+              8.1995,
+              52.0457
+            ],
+            [
+              8.1905,
+              52.0457
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": null,
+        "properties.vnbId": "pJW5JijGS6HhTmttr",
+        "properties.voltageTypes": "[Niederspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "wSpsxHPJt9NY6fxm8",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 8545574.770752458,
+        "vnbId": "pJW5JijGS6HhTmttr",
+        "vnbName": "Elektrizitätsgenossenschaft Oesterweg e.G.",
+        "voltageTypes": "Niederspannung"
+      },
+      "bbox": [
+        8.1656,
+        52.0122,
+        8.2255,
+        52.0495
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:39:50.604Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    8.1656,
+    52.0122,
+    8.2255,
+    52.0495
+  ]
+}

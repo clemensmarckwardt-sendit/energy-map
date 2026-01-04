@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "GcZZBoXjdXpFG4koa",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.815,
+              49.2008
+            ],
+            [
+              7.812,
+              49.1898
+            ],
+            [
+              7.8269,
+              49.1812
+            ],
+            [
+              7.845,
+              49.1676
+            ],
+            [
+              7.8658,
+              49.1832
+            ],
+            [
+              7.8692,
+              49.1888
+            ],
+            [
+              7.8663,
+              49.1954
+            ],
+            [
+              7.866,
+              49.1969
+            ],
+            [
+              7.8664,
+              49.198
+            ],
+            [
+              7.8647,
+              49.1987
+            ],
+            [
+              7.8587,
+              49.2018
+            ],
+            [
+              7.8497,
+              49.1991
+            ],
+            [
+              7.8494,
+              49.1976
+            ],
+            [
+              7.8479,
+              49.197
+            ],
+            [
+              7.843,
+              49.1973
+            ],
+            [
+              7.8421,
+              49.1973
+            ],
+            [
+              7.8389,
+              49.1991
+            ],
+            [
+              7.8383,
+              49.1992
+            ],
+            [
+              7.837,
+              49.1998
+            ],
+            [
+              7.8369,
+              49.2003
+            ],
+            [
+              7.8309,
+              49.2014
+            ],
+            [
+              7.8281,
+              49.2018
+            ],
+            [
+              7.8255,
+              49.202
+            ],
+            [
+              7.8214,
+              49.2019
+            ],
+            [
+              7.8189,
+              49.2015
+            ],
+            [
+              7.8187,
+              49.2014
+            ],
+            [
+              7.8154,
+              49.2011
+            ],
+            [
+              7.815,
+              49.2008
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": null,
+        "properties.vnbId": "yC5AsSG4vqhrbSdf8",
+        "properties.voltageTypes": "[Mittelspannung, Niederspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "GcZZBoXjdXpFG4koa",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 9784291.87744639,
+        "vnbId": "yC5AsSG4vqhrbSdf8",
+        "vnbName": "Energie- und Bäderbetrieb Hauenstein",
+        "voltageTypes": "Niederspannung, Mittelspannung"
+      },
+      "bbox": [
+        7.812,
+        49.1676,
+        7.8692,
+        49.202
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:40:01.464Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    7.812,
+    49.1676,
+    7.8692,
+    49.202
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "38kqY4kBqKHLzSvqt",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.245,
+              51.4928
+            ],
+            [
+              10.244,
+              51.4856
+            ],
+            [
+              10.2628,
+              51.4861
+            ],
+            [
+              10.2693,
+              51.49
+            ],
+            [
+              10.2796,
+              51.4947
+            ],
+            [
+              10.2832,
+              51.4999
+            ],
+            [
+              10.2915,
+              51.5142
+            ],
+            [
+              10.282,
+              51.525
+            ],
+            [
+              10.2679,
+              51.5261
+            ],
+            [
+              10.2553,
+              51.5226
+            ],
+            [
+              10.2351,
+              51.5262
+            ],
+            [
+              10.2351,
+              51.5211
+            ],
+            [
+              10.2352,
+              51.5189
+            ],
+            [
+              10.2292,
+              51.5163
+            ],
+            [
+              10.223,
+              51.5149
+            ],
+            [
+              10.2194,
+              51.5131
+            ],
+            [
+              10.2196,
+              51.5056
+            ],
+            [
+              10.2374,
+              51.5067
+            ],
+            [
+              10.2426,
+              51.5069
+            ],
+            [
+              10.2489,
+              51.5045
+            ],
+            [
+              10.245,
+              51.4928
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": 0,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": null,
+        "properties.vnbId": "147",
+        "properties.voltageTypes": "[Niederspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "38kqY4kBqKHLzSvqt",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 13677327.41846926,
+        "vnbId": "147",
+        "vnbName": "Eichsfelder Wirtschaftsbetriebe GmbH",
+        "voltageTypes": "Mittelspannung, Niederspannung"
+      },
+      "bbox": [
+        10.2194,
+        51.4856,
+        10.2915,
+        51.5262
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:39:46.767Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    10.2194,
+    51.4856,
+    10.2915,
+    51.5262
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "PL3tHWJD58jJMFXra",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.5828,
+              48.4301
+            ],
+            [
+              12.5788,
+              48.435
+            ],
+            [
+              12.5739,
+              48.4393
+            ],
+            [
+              12.5744,
+              48.44
+            ],
+            [
+              12.5728,
+              48.4438
+            ],
+            [
+              12.5694,
+              48.445
+            ],
+            [
+              12.566,
+              48.4443
+            ],
+            [
+              12.5616,
+              48.4455
+            ],
+            [
+              12.56,
+              48.4493
+            ],
+            [
+              12.5565,
+              48.4493
+            ],
+            [
+              12.5524,
+              48.4469
+            ],
+            [
+              12.5454,
+              48.4472
+            ],
+            [
+              12.54,
+              48.4456
+            ],
+            [
+              12.5376,
+              48.4424
+            ],
+            [
+              12.5491,
+              48.4394
+            ],
+            [
+              12.5534,
+              48.4355
+            ],
+            [
+              12.551,
+              48.43
+            ],
+            [
+              12.5583,
+              48.4264
+            ],
+            [
+              12.5626,
+              48.4265
+            ],
+            [
+              12.5717,
+              48.428
+            ],
+            [
+              12.576,
+              48.4305
+            ],
+            [
+              12.579,
+              48.4289
+            ],
+            [
+              12.5828,
+              48.4301
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": "Mittelspannung",
+        "properties.vnbId": "yYa3qCYARDe88K8Zw",
+        "properties.voltageTypes": "[Mittelspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "PL3tHWJD58jJMFXra",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 4472376.020610354,
+        "vnbId": "yYa3qCYARDe88K8Zw",
+        "vnbName": "Gemeindewerke Gangkofen",
+        "voltageTypes": "Niederspannung, Mittelspannung"
+      },
+      "bbox": [
+        12.5376,
+        48.4264,
+        12.5828,
+        48.4493
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:40:20.089Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    12.5376,
+    48.4264,
+    12.5828,
+    48.4493
+  ]
+}

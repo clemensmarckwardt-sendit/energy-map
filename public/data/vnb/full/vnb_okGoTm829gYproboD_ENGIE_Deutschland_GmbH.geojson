@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "czGLZTmPNhK4ck38k",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.9015,
+              51.1097
+            ],
+            [
+              13.901,
+              51.1077
+            ],
+            [
+              13.9033,
+              51.1072
+            ],
+            [
+              13.9026,
+              51.1061
+            ],
+            [
+              13.9015,
+              51.1063
+            ],
+            [
+              13.9009,
+              51.1054
+            ],
+            [
+              13.9002,
+              51.1055
+            ],
+            [
+              13.8995,
+              51.1032
+            ],
+            [
+              13.9043,
+              51.102
+            ],
+            [
+              13.9052,
+              51.1033
+            ],
+            [
+              13.9071,
+              51.1028
+            ],
+            [
+              13.9082,
+              51.1047
+            ],
+            [
+              13.9063,
+              51.1051
+            ],
+            [
+              13.9071,
+              51.1063
+            ],
+            [
+              13.9083,
+              51.106
+            ],
+            [
+              13.9087,
+              51.1066
+            ],
+            [
+              13.909,
+              51.1065
+            ],
+            [
+              13.9092,
+              51.1068
+            ],
+            [
+              13.9083,
+              51.1071
+            ],
+            [
+              13.9084,
+              51.1072
+            ],
+            [
+              13.9077,
+              51.1074
+            ],
+            [
+              13.9083,
+              51.1084
+            ],
+            [
+              13.9066,
+              51.1088
+            ],
+            [
+              13.9034,
+              51.1091
+            ],
+            [
+              13.9015,
+              51.1097
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": null,
+        "properties.vnbId": "okGoTm829gYproboD",
+        "properties.voltageTypes": "[Niederspannung, Mittelspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "czGLZTmPNhK4ck38k",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 332115.1805247323,
+        "vnbId": "okGoTm829gYproboD",
+        "vnbName": "ENGIE Deutschland GmbH",
+        "voltageTypes": "Niederspannung, Mittelspannung"
+      },
+      "bbox": [
+        13.8995,
+        51.102,
+        13.9092,
+        51.1097
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:39:40.171Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    13.8995,
+    51.102,
+    13.9092,
+    51.1097
+  ]
+}

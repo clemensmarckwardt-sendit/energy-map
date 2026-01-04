@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "5CJwGkWCuJyPpJZrg",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.912,
+              50.1213
+            ],
+            [
+              9.8964,
+              50.1264
+            ],
+            [
+              9.9006,
+              50.1336
+            ],
+            [
+              9.9013,
+              50.1351
+            ],
+            [
+              9.8976,
+              50.1362
+            ],
+            [
+              9.8812,
+              50.128
+            ],
+            [
+              9.8798,
+              50.1315
+            ],
+            [
+              9.8719,
+              50.1273
+            ],
+            [
+              9.8645,
+              50.1094
+            ],
+            [
+              9.8701,
+              50.1081
+            ],
+            [
+              9.8748,
+              50.1074
+            ],
+            [
+              9.8972,
+              50.1071
+            ],
+            [
+              9.905,
+              50.1077
+            ],
+            [
+              9.912,
+              50.1213
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": "Mittelspannung",
+        "properties.vnbId": "7087",
+        "properties.voltageTypes": "[Mittelspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "5CJwGkWCuJyPpJZrg",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 7005001.979771969,
+        "vnbId": "7087",
+        "vnbName": "Stadtwerke Hammelburg GmbH",
+        "voltageTypes": "Mittelspannung, Niederspannung"
+      },
+      "bbox": [
+        9.8645,
+        50.1071,
+        9.912,
+        50.1362
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:47:31.170Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    9.8645,
+    50.1071,
+    9.912,
+    50.1362
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "HaqefWgBDf687wFdH",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.6643,
+              51.6465
+            ],
+            [
+              9.6673,
+              51.6557
+            ],
+            [
+              9.6648,
+              51.6559
+            ],
+            [
+              9.6617,
+              51.6557
+            ],
+            [
+              9.6601,
+              51.6578
+            ],
+            [
+              9.6563,
+              51.6616
+            ],
+            [
+              9.6562,
+              51.6656
+            ],
+            [
+              9.6461,
+              51.6689
+            ],
+            [
+              9.637,
+              51.6716
+            ],
+            [
+              9.6282,
+              51.6711
+            ],
+            [
+              9.6254,
+              51.671
+            ],
+            [
+              9.6241,
+              51.6717
+            ],
+            [
+              9.623,
+              51.6771
+            ],
+            [
+              9.6151,
+              51.6762
+            ],
+            [
+              9.6134,
+              51.6719
+            ],
+            [
+              9.6108,
+              51.6683
+            ],
+            [
+              9.5968,
+              51.6603
+            ],
+            [
+              9.6127,
+              51.6588
+            ],
+            [
+              9.6254,
+              51.6532
+            ],
+            [
+              9.629,
+              51.6513
+            ],
+            [
+              9.6309,
+              51.649
+            ],
+            [
+              9.6332,
+              51.6484
+            ],
+            [
+              9.6389,
+              51.643
+            ],
+            [
+              9.6411,
+              51.644
+            ],
+            [
+              9.6446,
+              51.6445
+            ],
+            [
+              9.6643,
+              51.6465
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geometry",
+      "properties": {
+        "id": null,
+        "type": "vnb",
+        "properties.V_DAT_POST": null,
+        "properties.V_LFD": null,
+        "properties.type": null,
+        "properties.vnbId": "649",
+        "properties.voltageTypes": "[Mittelspannung]",
+        "state": "ACTIVE",
+        "properties.FID": null,
+        "_id": "HaqefWgBDf687wFdH",
+        "properties.EV_HOCH": null,
+        "properties.geometryArea": 8901166.851941463,
+        "vnbId": "649",
+        "vnbName": "Stadtwerke Uslar GmbH",
+        "voltageTypes": "Mittelspannung, Niederspannung"
+      },
+      "bbox": [
+        9.5968,
+        51.643,
+        9.6673,
+        51.6771
+      ]
+    }
+  ],
+  "totalFeatures": "unknown",
+  "numberReturned": 1,
+  "timeStamp": "2025-12-21T12:48:32.215Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "bbox": [
+    9.5968,
+    51.643,
+    9.6673,
+    51.6771
+  ]
+}
